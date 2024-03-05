@@ -9,4 +9,5 @@
 - redux-thunk
 - react-router-dom
 
-![](e-commerce.gif)
+#GIF
+![](e-commerce-project.gif)
