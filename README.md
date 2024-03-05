@@ -1,3 +1,5 @@
+# e-commerce
+
 # Tools
 
 - json-server
@@ -6,4 +8,5 @@
 - redux
 - redux-thunk
 - react-router-dom
-# e-commerce
+
+![](e-commerce.gif)
