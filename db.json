@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "baslik": "Akıllı Telefon",
+      "marka": "XYZ",
+      "model": "A1",
+      "fiyat": 1500,
+      "stokAdedi": 50,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4G LTE bağlantısı",
+        "64 GB depolama",
+        "5.5 inç ekran"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2022/10/03/20/01/iphone-13-pro-max-7496758_1280.jpg"
+    },
+    {
+      "id": "2",
+      "baslik": "Dizüstü Bilgisayar",
+      "marka": "ABC",
+      "model": "B2",
+      "fiyat": 3000,
+      "stokAdedi": 30,
+      "renk": "Gümüş",
+      "ozellikler": [
+        "Intel Core i7 işlemci",
+        "16 GB RAM",
+        "512 GB SSD"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2013/10/05/10/42/apple-190970_1280.jpg"
+    },
+    {
+      "id": "3",
+      "baslik": "Kablosuz Kulaklık",
+      "marka": "DEF",
+      "model": "C3",
+      "fiyat": 150,
+      "stokAdedi": 100,
+      "renk": "Beyaz",
+      "ozellikler": [
+        "Bluetooth 5.0",
+        "Dokunmatik kontrol",
+        "20 saat pil ömrü"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2018/09/17/14/27/headphones-3683983_1280.jpg"
+    },
+    {
+      "id": "4",
+      "baslik": "Akıllı Saat",
+      "marka": "GHI",
+      "model": "D4",
+      "fiyat": 500,
+      "stokAdedi": 20,
+      "renk": "Metal Gri",
+      "ozellikler": [
+        "GPS takibi",
+        "Kalp atış hızı sensörü",
+        "Su geçirmez"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2018/10/29/07/18/apple-3780515_1280.jpg"
+    },
+    {
+      "id": "5",
+      "baslik": "Akıllı Televizyon",
+      "marka": "KLM",
+      "model": "E5",
+      "fiyat": 2500,
+      "stokAdedi": 40,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50 inç ekran"
+      ],
+      "resim": "https://media.istockphoto.com/id/467946398/tr/foto%C4%9Fraf/contemporary-curved-led-smart-tv-design.jpg?s=1024x1024&w=is&k=20&c=5VqB0BUkycs4QdlJkNkAfoqeMbW9_vvyHMQ_6C7brro="
+    },
+    {
+      "id": "6",
+      "baslik": "Oyun Bilgisayarı",
+      "marka": "NOP",
+      "model": "F6",
+      "fiyat": 4000,
+      "stokAdedi": 25,
+      "renk": "RGB Aydınlatmalı",
+      "ozellikler": [
+        "NVIDIA GeForce RTX 3080",
+        "32 GB RAM",
+        "1 TB NVMe SSD"
+      ],
+      "resim": "https://media.istockphoto.com/id/505227671/tr/foto%C4%9Fraf/gamer-laptop-with-video-game.jpg?s=612x612&w=0&k=20&c=7MUvOcyZYtV_O43D36pnk3l5s1q62HJF4xRtxmK3RPg="
+    },
+    {
+      "id": "7",
+      "baslik": "Bluetooth Hoparlör",
+      "marka": "QRS",
+      "model": "G7",
+      "fiyat": 120,
+      "stokAdedi": 80,
+      "renk": "Mavi",
+      "ozellikler": [
+        "Kablosuz şarj",
+        "Taşınabilir",
+        "10 saat pil ömrü"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2016/11/29/04/40/accessories-1867368_1280.jpg"
+    },
+    {
+      "id": "8",
+      "baslik": "Kamera Seti",
+      "marka": "TUV",
+      "model": "H8",
+      "fiyat": 800,
+      "stokAdedi": 15,
+      "renk": "Siyah",
+      "ozellikler": [
+        "4 adet kamera",
+        "Gece görüşü",
+        "Hareket algılama"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2018/12/24/20/04/lens-3893457_1280.jpg"
+    },
+    {
+      "id": "9",
+      "baslik": "Kablosuz Fare",
+      "marka": "XYZ",
+      "model": "F9",
+      "fiyat": 80,
+      "stokAdedi": 60,
+      "renk": "Siyah",
+      "ozellikler": [
+        "Ergonomik tasarım",
+        "1200 DPI hassasiyet",
+        "Çift yönlü kaydırma"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2016/02/03/16/25/mouse-1177399_1280.jpg"
+    },
+    {
+      "id": "10",
+      "baslik": "Fitness Akıllı Bilezik",
+      "marka": "ABC",
+      "model": "B10",
+      "fiyat": 120,
+      "stokAdedi": 35,
+      "renk": "Pembe",
+      "ozellikler": [
+        "Kalp atış hızı izleme",
+        "Adım sayar",
+        "Uyku takibi"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2017/02/12/12/54/polar-a360-2059937_1280.jpg"
+    },
+    {
+      "id": "11",
+      "baslik": "Taşınabilir Harici SSD",
+      "marka": "DEF",
+      "model": "C11",
+      "fiyat": 200,
+      "stokAdedi": 45,
+      "renk": "Gri",
+      "ozellikler": [
+        "500 GB depolama",
+        "USB-C bağlantı",
+        "Hızlı veri transferi"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2014/04/09/08/16/data-storage-319844_1280.jpg"
+    },
+    {
+      "id": "12",
+      "baslik": "Gaming Klavye ve Mouse Seti",
+      "marka": "GHI",
+      "model": "D12",
+      "fiyat": 150,
+      "stokAdedi": 25,
+      "renk": "RGB Aydınlatmalı",
+      "ozellikler": [
+        "Mechanical tuşlar",
+        "Optik oyun faresi"
+      ],
+      "resim": "https://cdn.pixabay.com/photo/2020/01/12/08/12/keyboard-4759502_1280.jpg"
+    }
+  ],
+  "basket": []
+}
